@@ -11,9 +11,9 @@ function App() {
   //Instance ID
   let InstanceId_Widget = "626288";
   let InstanceId_QA = "";
-  let InstanceId_SEO = "";
+  let InstanceId_SEO = "905780";
   let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "";
+  let InstanceId_StarRating = "905760";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
